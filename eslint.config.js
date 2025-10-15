@@ -5,6 +5,7 @@ export default [
   {
     files: ['**/*.ts', '**/*.tsx'],
     rules: {
+      "react-hooks/immutability": "off",
       'react/prop-types': 'off',
       'unicorn/no-array-reduce': 'off',
       'unicorn/filename-case': 'off',
