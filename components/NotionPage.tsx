@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/immutability */
 import cs from 'classnames'
 import dynamic from 'next/dynamic'
 import Image from 'next/legacy/image'
