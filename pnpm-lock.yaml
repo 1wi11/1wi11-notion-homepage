@@ -39,14 +39,14 @@ importers:
         specifier: ^15.3.3
         version: 15.3.3(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       notion-client:
-        specifier: ^7.4.3
-        version: 7.4.3
+        specifier: ^7.7.0
+        version: 7.7.0
       notion-types:
-        specifier: ^7.4.3
-        version: 7.4.3
+        specifier: ^7.7.0
+        version: 7.7.0
       notion-utils:
-        specifier: ^7.4.3
-        version: 7.4.3
+        specifier: ^7.7.0
+        version: 7.7.0
       p-map:
         specifier: ^7.0.3
         version: 7.0.3
@@ -69,8 +69,8 @@ importers:
         specifier: ^19.1.0
         version: 19.1.0(react@19.1.0)
       react-notion-x:
-        specifier: ^7.4.3
-        version: 7.4.3(@babel/runtime@7.27.6)(@types/react@19.1.6)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+        specifier: ^7.7.0
+        version: 7.7.0(@babel/runtime@7.27.6)(@types/react@19.1.6)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react-tweet:
         specifier: ^3.2.2
         version: 3.2.2(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
